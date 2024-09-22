@@ -100,7 +100,7 @@ $wgLocaltimezone = 'Europe/Helsinki';
 ## be publicly accessible from the web.
 #$wgCacheDirectory = "$IP/cache";
 
-$wgSecretKey = '34b11488c06a16bb313cd501a86d6c2bb6d01a40ec1554707e1e11d07e1dab63';
+$wgSecretKey = 'Secret key';
 
 # Changing this will log out all existing sessions.
 $wgAuthenticationTokenVersion = '1';
